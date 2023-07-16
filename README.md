@@ -1,11 +1,14 @@
-### Hi there 👋
+### Hi humans 👋
+Git profile under construction
 
+<div>
+<img height = "180cm" src = "https://github-readme-stats.vercel.app/api?username=emleit&show=reviews&show_icons=true&theme=dracula" />
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=emleit&show=reviews&show_icons=true&theme=dracula)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emleit&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-
-<p dir="auto"><a target="_blank" rel="noopener noreferrer" href="https://github.com/LuigiGF/LuigiGF/blob/output/github-contribution-grid-snake.svg"><img src="https://github.com/LuigiGF/LuigiGF/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" style="max-width: 100%;"></a></p>
+<!--<img align="right" height = "180cm" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=emleit&show_icons=true&theme=dracula" />-->
+</div>
+<div>
+<a target="_blank" rel="noopener noreferrer" href="https://github.com/LuigiGF/LuigiGF/blob/output/github-contribution-grid-snake.svg"><img src="https://github.com/LuigiGF/LuigiGF/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" style="max-width: 100%;"></a>
+</div>
 
 <!--
 **emleit/emleit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
