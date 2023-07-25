@@ -8,6 +8,7 @@ Git profile under construction
 </div>
 <div>
 <a target="_blank" rel="noopener noreferrer" href="https://github.com/LuigiGF/LuigiGF/blob/output/github-contribution-grid-snake.svg"><img src="https://github.com/LuigiGF/LuigiGF/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" style="max-width: 100%;"></a>
+  
 </div>
 
 <!--
